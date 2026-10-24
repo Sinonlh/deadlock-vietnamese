@@ -1,4 +1,4 @@
-# deadlock-vietnamese
+
 #  SINONLH – Deadlock Vietnamese Launcher
 Công cụ hỗ trợ cài đặt bản Việt hóa tiếng Việt cho Deadlock.
 
@@ -22,6 +22,6 @@ Mọi ý kiến đóng góp và báo lỗi dịch thuật đều được hoan n
 
 Nếu gặp lỗi hoặc phát hiện nội dung dịch chưa chính xác, hãy gửi phản hồi để mình tiếp tục cải thiện trong các phiên bản tiếp theo.
 
-**Phát triển bởi SINONLH 🐾**
+**Phát triển bởi SINONLH **
 ## Video hướng dẫn
 **https://youtu.be/aGK9CMnTM88?si=7d-AflMFdvlbtSpB**
