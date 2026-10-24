@@ -25,3 +25,5 @@ Nếu gặp lỗi hoặc phát hiện nội dung dịch chưa chính xác, hãy 
 **Phát triển bởi SINONLH **
 ## Video hướng dẫn
 **https://youtu.be/aGK9CMnTM88?si=7d-AflMFdvlbtSpB**
+## Binh luan
+https://github.com/Sinonlh/deadlock-vietnamese/discussions/1#discussion-11118710
