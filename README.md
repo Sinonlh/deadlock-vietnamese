@@ -24,4 +24,4 @@ Nếu gặp lỗi hoặc phát hiện nội dung dịch chưa chính xác, hãy 
 
 **Phát triển bởi SINONLH 🐾**
 Video hướng dẫn
-https://youtu.be/aGK9CMnTM88?si=7d-AflMFdvlbtSpB
+**https://youtu.be/aGK9CMnTM88?si=7d-AflMFdvlbtSpB**
