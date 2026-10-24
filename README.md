@@ -1,29 +1,72 @@
+#  HƯỚNG DẪN SỬ DỤNG LAUNCHER
 
-#  SINONLH – Deadlock Vietnamese Launcher
-Công cụ hỗ trợ cài đặt bản Việt hóa tiếng Việt cho Deadlock.
+**Launcher** là công cụ hỗ trợ cài đặt, cập nhật và khôi phục bản Việt hóa cho tựa game **Deadlock**.
 
-##  Hướng dẫn sử dụng
+##  1. Tải Launcher
 
-1. Vào mục **Releases → Assets** và tải file `.zip` của phiên bản mới nhất.
-2. Nhấp chuột phải vào file ZIP → **Extract All (Giải nén tất cả)**.
-3. Mở thư mục vừa giải nén.
-4. Chạy file `Launcher.exe`.
-5. Launcher sẽ tự động tìm thư mục Deadlock. Nếu không tìm thấy, hãy chọn thủ công.
-6. Nhấn **Cài Việt hóa** và chờ thông báo hoàn tất.
-7. Mở Deadlock để trải nghiệm.
-   
-## Thông tin về bản dịch
-Nội dung bản dịch được thực hiện hoàn toàn bằng AI.
-Bản dịch có thể tồn tại lỗi ngữ nghĩa, thuật ngữ hoặc nội dung chưa chính xác.
-Dự án mang tính chất cộng đồng, được chia sẻ miễn phí và không nhằm mục đích thương mại.
-Mọi ý kiến đóng góp và báo lỗi dịch thuật đều được hoan nghênh.
+1. Tải phiên bản  Launcher mới nhất từ GitHub Releases.
+2. Giải nén nếu file được đóng gói dưới dạng ZIP.
+3. Mở file `.exe` để khởi chạy Launcher.
 
-##  Khôi phục
+**Lưu ý:** Launcher không yêu cầu cài đặt vào máy tính.
 
-Nếu gặp lỗi hoặc phát hiện nội dung dịch chưa chính xác, hãy gửi phản hồi để mình tiếp tục cải thiện trong các phiên bản tiếp theo.
+##  2. Chọn thư mục Deadlock
 
-**Phát triển bởi SINONLH **
-## Video hướng dẫn
-**https://youtu.be/aGK9CMnTM88?si=7d-AflMFdvlbtSpB**
-## Bình luận
-https://github.com/Sinonlh/deadlock-vietnamese/discussions/1#discussion-11118710
+- Launcher sẽ tự động tìm thư mục cài đặt Deadlock.
+- Nếu không tìm thấy, nhấn **Tiềm kiếm ** để chọn thư mục game thủ công.
+- Kiểm tra đường dẫn trước khi tiếp tục.
+
+##  3. Kiểm tra và tải bản Việt hóa
+
+1. Nhấn nút **Kiểm tra cập nhật**.
+2. Launcher sẽ kiểm tra phiên bản Việt hóa mới nhất trên GitHub.
+3. Nếu chưa có bản Việt hóa hoặc phát hiện bản mới, Launcher sẽ tự động tải file ZIP.
+4. Nếu file ZIP đã là bản mới nhất, Launcher sẽ không tải lại.
+
+**Lưu ý:** Cần kết nối Internet để kiểm tra và tải bản Việt hóa.
+
+##  4. Cài đặt Việt hóa
+
+1. Sau khi tải thành công, nhấn **Cài Việt hóa**.
+2. Chờ Launcher hoàn tất quá trình cài đặt.
+3. Mở Deadlock và trải nghiệm bản Việt hóa.
+
+Launcher sẽ tự động sao lưu các file gốc trước khi thay thế.
+
+##  5. Cập nhật bản Việt hóa
+
+Khi có bản dịch mới:
+
+1. Mở Launcher.
+2. Nhấn **Kiểm tra cập nhật**.
+3. Chờ tải bản Việt hóa mới.
+4. Nhấn **Cập nhật Việt hóa** để áp dụng.
+
+Bạn không cần khôi phục bản tiếng Anh trước khi cập nhật. Launcher sẽ giữ lại bản sao lưu gốc.
+
+##  6. Khôi phục tiếng Anh
+
+Nếu muốn trở về bản gốc:
+
+1. Mở Launcher.
+2. Chọn đúng thư mục Deadlock đã cài Việt hóa.
+3. Nhấn **Khôi phục**.
+4. Chờ hoàn tất.
+
+Launcher sẽ sử dụng các file đã sao lưu để khôi phục phiên bản tiếng Anh ban đầu.
+
+##  Lưu ý quan trọng
+
+- Nên thoát Deadlock trước khi cài đặt, cập nhật hoặc khôi phục.
+- Không tự ý xóa dữ liệu sao lưu của Launcher nếu chưa khôi phục bản gốc.
+- Không tắt Launcher trong lúc đang cài đặt hoặc khôi phục.
+- Nếu GitHub API gặp lỗi HTTP 403, hãy thử kiểm tra lại sau.
+- Chức năng cập nhật Việt hóa **không tự cập nhật file EXE của Launcher**. Khi có phiên bản Launcher mới, bạn cần tải lại từ GitHub Releases.
+
+---
+
+**❤️ Phát triển bởi SINONLH**
+
+Nếu gặp lỗi hoặc có góp ý, bạn có thể gửi phản hồi tại GitHub.
+
+*Công cụ được phát triển độc lập nhằm hỗ trợ cộng đồng người chơi Deadlock Việt Nam và không phải sản phẩm chính thức của Valve.*
