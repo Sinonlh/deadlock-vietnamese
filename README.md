@@ -68,5 +68,5 @@ Launcher sẽ sử dụng các file đã sao lưu để khôi phục phiên bả
 **❤️ Phát triển bởi SINONLH**
 
 Nếu gặp lỗi hoặc có góp ý, bạn có thể gửi phản hồi tại GitHub.
-
+## https://github.com/Sinonlh/deadlock-vietnamese/discussions/1#discussion-11118710
 *Công cụ được phát triển độc lập nhằm hỗ trợ cộng đồng người chơi Deadlock Việt Nam và không phải sản phẩm chính thức của Valve.*
