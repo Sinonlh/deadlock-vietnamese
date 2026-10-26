@@ -50,6 +50,8 @@ Launcher sẽ sử dụng các file đã sao lưu để khôi phục phiên bả
 - Chức năng cập nhật Việt hóa **không tự cập nhật file EXE của Launcher**. Khi có phiên bản Launcher mới, bạn cần tải lại từ GitHub Releases.
 
 ---
+** Videos hướng dẫn**
+https://youtu.be/aGK9CMnTM88?si=qwPZ0q5VBNChzWkQ
 
 **❤️ Phát triển bởi SINONLH**
 
