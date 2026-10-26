@@ -18,10 +18,8 @@
 
 ##  3. Kiểm tra và tải bản Việt hóa
 
-1. Nhấn nút **Kiểm tra cập nhật**.
-2. Launcher sẽ kiểm tra phiên bản Việt hóa mới nhất trên GitHub.
-3. Nếu chưa có bản Việt hóa hoặc phát hiện bản mới, Launcher sẽ tự động tải file ZIP.
-4. Nếu file ZIP đã là bản mới nhất, Launcher sẽ không tải lại.
+1. Nếu chưa có bản Việt hóa hoặc phát hiện bản mới, Launcher sẽ tự động tải file ZIP.
+2. Nếu file ZIP đã là bản mới nhất, Launcher sẽ không tải lại.
 
 **Lưu ý:** Cần kết nối Internet để kiểm tra và tải bản Việt hóa.
 
@@ -33,18 +31,7 @@
 
 Launcher sẽ tự động sao lưu các file gốc trước khi thay thế.
 
-##  5. Cập nhật bản Việt hóa
-
-Khi có bản dịch mới:
-
-1. Mở Launcher.
-2. Nhấn **Kiểm tra cập nhật**.
-3. Chờ tải bản Việt hóa mới.
-4. Nhấn **Cập nhật Việt hóa** để áp dụng.
-
-Bạn không cần khôi phục bản tiếng Anh trước khi cập nhật. Launcher sẽ giữ lại bản sao lưu gốc.
-
-##  6. Khôi phục tiếng Anh
+##  5. Khôi phục tiếng Anh
 
 Nếu muốn trở về bản gốc:
 
@@ -60,7 +47,6 @@ Launcher sẽ sử dụng các file đã sao lưu để khôi phục phiên bả
 - Nên thoát Deadlock trước khi cài đặt, cập nhật hoặc khôi phục.
 - Không tự ý xóa dữ liệu sao lưu của Launcher nếu chưa khôi phục bản gốc.
 - Không tắt Launcher trong lúc đang cài đặt hoặc khôi phục.
-- Nếu GitHub API gặp lỗi HTTP 403, hãy thử kiểm tra lại sau.
 - Chức năng cập nhật Việt hóa **không tự cập nhật file EXE của Launcher**. Khi có phiên bản Launcher mới, bạn cần tải lại từ GitHub Releases.
 
 ---
